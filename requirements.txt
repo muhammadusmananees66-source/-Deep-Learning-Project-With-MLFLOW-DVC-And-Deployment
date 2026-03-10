@@ -1,0 +1,19 @@
+tensorflow==2.20.0
+dvc
+pandas 
+mlflow==3.8.1
+notebook
+numpy 
+matplotlib
+seaborn
+python-box==7.3.2
+pyYAML
+tqdm
+ensure
+joblib
+types-pyYAML
+scipy
+Flask
+Flask-Cors
+gdown         # get data from google drive
+-e .
